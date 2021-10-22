@@ -32,7 +32,7 @@ namespace ProjetoFilmesAspWeb
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Hello World!");
+                    await context.Response.WriteAsync("Se você leu isso, tudo deu certo!");
                 });
             });
         }

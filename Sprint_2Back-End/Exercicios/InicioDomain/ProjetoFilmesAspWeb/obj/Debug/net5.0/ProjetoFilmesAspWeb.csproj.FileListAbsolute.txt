@@ -21,3 +21,12 @@ C:\Users\fic\source\repos\ProjetoFilmesAspWeb\ProjetoFilmesAspWeb\obj\Debug\net5
 C:\Users\fic\source\repos\ProjetoFilmesAspWeb\ProjetoFilmesAspWeb\obj\Debug\net5.0\ref\ProjetoFilmesAspWeb.dll
 C:\Users\fic\source\repos\ProjetoFilmesAspWeb\ProjetoFilmesAspWeb\obj\Debug\net5.0\ProjetoFilmesAspWeb.pdb
 C:\Users\fic\source\repos\ProjetoFilmesAspWeb\ProjetoFilmesAspWeb\obj\Debug\net5.0\ProjetoFilmesAspWeb.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Documentos\SENAI\2ºSemestre\SENAI-2DT\Sprint_2Back-End\Exercicios\InicioDomain\ProjetoFilmesAspWeb\obj\Debug\net5.0\ProjetoFilmesAspWeb.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Documentos\SENAI\2ºSemestre\SENAI-2DT\Sprint_2Back-End\Exercicios\InicioDomain\ProjetoFilmesAspWeb\obj\Debug\net5.0\ProjetoFilmesAspWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Documentos\SENAI\2ºSemestre\SENAI-2DT\Sprint_2Back-End\Exercicios\InicioDomain\ProjetoFilmesAspWeb\obj\Debug\net5.0\ProjetoFilmesAspWeb.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Documentos\SENAI\2ºSemestre\SENAI-2DT\Sprint_2Back-End\Exercicios\InicioDomain\ProjetoFilmesAspWeb\obj\Debug\net5.0\ProjetoFilmesAspWeb.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Documentos\SENAI\2ºSemestre\SENAI-2DT\Sprint_2Back-End\Exercicios\InicioDomain\ProjetoFilmesAspWeb\obj\Debug\net5.0\ProjetoFilmesAspWeb.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\SENAI\2ºSemestre\SENAI-2DT\Sprint_2Back-End\Exercicios\InicioDomain\ProjetoFilmesAspWeb\obj\Debug\net5.0\ProjetoFilmesAspWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitor\OneDrive\Documentos\SENAI\2ºSemestre\SENAI-2DT\Sprint_2Back-End\Exercicios\InicioDomain\ProjetoFilmesAspWeb\obj\Debug\net5.0\ProjetoFilmesAspWeb.dll
+C:\Users\vitor\OneDrive\Documentos\SENAI\2ºSemestre\SENAI-2DT\Sprint_2Back-End\Exercicios\InicioDomain\ProjetoFilmesAspWeb\obj\Debug\net5.0\ref\ProjetoFilmesAspWeb.dll
+C:\Users\vitor\OneDrive\Documentos\SENAI\2ºSemestre\SENAI-2DT\Sprint_2Back-End\Exercicios\InicioDomain\ProjetoFilmesAspWeb\obj\Debug\net5.0\ProjetoFilmesAspWeb.pdb
