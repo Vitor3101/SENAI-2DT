@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css2?family=Gotu&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.corpo {
+    background-color: #F0F0F0;
+}
+
+.input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+table {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img_header {
+    margin-left: 100px;
+}
+
+.tamanho {
+    height: 1024px;
+}
+
+.fundo_cadastrar {
+    width: 60%;
+    height: 7vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 50px;
+    background-color: #D5E1FA;
+    border-radius: 10px;
+}
+
+form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cadastrar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40%;
+    margin: 20px;
+    margin-top: 0px;
+}
+
+.apoio_input {
+    display: flex;
+    justify-content: space-between;
+}
+
+input {
+    margin-bottom: -3px;
+    margin-left: 5px;
+    border-radius: 10px;
+    background-color: #fff;
+    padding-left: 10px;
+}
+
+.lista_desejos {
+    box-shadow: -5px 4px 20px rgba(0, 0, 0, 0.7), 5px 4px 20px 2px rgba(0, 0, 0, 0.7);
+    background-color: #D5E1FA;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 55px;
+}
+
+thead {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lista_desejos h2 {
+    margin-top: 20px;
+}
+
+.lista_desejos table {
+    max-width: unset;
+    width: 60%;
+    margin-bottom: 50px;
+    justify-content: center;
+}
+
+.titulo_tabela {
+    margin-top: unset;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.usuarios {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.usuarios h2 {
+    margin-top: 28px;
+}
+
+.usuarios table {
+    margin-bottom: 40px;
+    max-width: unset;
+    width: 60%;
+}
+
+td {
+    margin-right: 25px;
+}
+
+.grid {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+a {
+    color: #001F70;
+    text-decoration: none;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+nav {
+    width: 639px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.formatar {
+    color: black;
+    font-size: 90px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.color {
+    font-family: 'Gotu', sans-serif;
+    background-color: #F0F0F0;
+}
+
+.ajuste {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    box-shadow: -5px 4px 20px rgba(0, 0, 0, 0.7), 5px 4px 20px 2px rgba(0, 0, 0, 0.7);
+    background-color: #D5E1FA;
+}
+
+.arrumar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+table {
+    width: 90%;
+    max-width: 770px;
+    font-size: 20px;
+    line-height: 23px;
+    margin-top: 50px;
+}
+
+.td_container {
+    display: flex;
+    justify-content: end;
+}
+
+.center_list {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+thead {
+    display: flex;
+    justify-content: center;
+}
+
+.titulos {
+    margin: 15px;
+}
+
+th {
+    top: 491px;
+}
+
+.btn_cadastrar {
+    border-radius: 20px;
+    background-color: #001F70;
+    width: 140px;
+    height: 20px;
+    margin-left: 5px;
+    color: white;
+    margin-top: 15px;
+}
+
+.container_header {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #E1DCF5;
+}
+
+.nav_header {
+    width: 11%;
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    margin-right: 100px;
+}
+
+.container_footer nav {
+    width: 37%;
+}
+
+.container_footer {
+    height: 190px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #E1DCF5;
+}
+
+.img_footer {
+    margin-left: 100px;
+}
