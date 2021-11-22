@@ -13,10 +13,15 @@ class Clock extends React.Component {
       date: new Date()
     }
   }
+  timer() {
+    this.setState({
+      date: new Date()
+    })
+  }
 
   componentDidMount() {
     this.idRelogio = setInterval(() => {
-      this.tick()
+      this.timer()
     }, 1000);
     console.log(`O id do Relógio foi mudado para o id:` + this.idRelogio);
   }
@@ -25,16 +30,11 @@ class Clock extends React.Component {
     clearInterval(this.idRelogio);
   }
 
-  tick() {
-    this.setState({
-      date: new Date()
-    })
-  }
 
   Play() {
     console.log(`Relógio retomado!`);
     this.idRelogio = setInterval(() => {
-      this.tick()
+      this.timer()
     }, 1000);
     console.log(`O id do Relógio mudou para o id:` + this.idRelogio)
   }

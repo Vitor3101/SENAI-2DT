@@ -28,6 +28,22 @@
   color: #61dafb;
 }
 
+.pause {
+  color: white;
+  background-color: red;
+  height: 25px;
+  font-weight: medium;
+  font-size: 20px;
+}
+
+.play {
+  color: white;
+  background-color: green;
+  height: 25px;
+  font-weight: medium;
+  font-size: 25px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +51,6 @@
   to {
     transform: rotate(360deg);
   }
+
+  
 }
